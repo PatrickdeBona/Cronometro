@@ -1,2 +1,2 @@
 # Cronometro
- Cronômetro com pause e reset
+ Cronômetro com as funções de pause e reset.
